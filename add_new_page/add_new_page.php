@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Add New Page
-Plugin URI: https://github.com/elliotcondon/acf-field-type-template
+Plugin URI: https://github.com/bear1030/new_page_plugin.git
 Description: This is adding new page plugin.
 Version: 1.0.0
 Author: Hong
